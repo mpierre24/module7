@@ -51,43 +51,45 @@ if answer == "Boba Fett":
 else:
     print('Incoorect')
 
-answer = input("? ")
-if answer == "Right":
+answer = input("Which group invented the Death Star, the most powerful weapon in the universe? ")
+if answer == "Galactic Empire":
     print('Correct')
 else:
     print('Incoorect')
 
-answer = input("What species is Chewbacca? ")
+answer = input("Where did the Clone Wars begin? ")
+if answer == "Geonosis":
+    print('Correct')
+else:
+    print('Incoorect')
+
+answer = input("Who freed Princess Leia from her chains at Jabba's palace? ")
+if answer == "R2-D2":
+    print('Correct')
+else:
+    print('Incoorect')
+
+answer = input("How many lightsabers does General Grievous wield in his fight with Obi-Wan on Utapau? ")
+if answer == "Four":
+    print('Correct')
+elif answer == "4":
+    print('Correct')
+else:
+    print('Incoorect')
+
+answer = input("How old was Yoda when Luke Skywalker returned to Dagobah to complete his training? ")
+if answer == "900 years old":
+    print('Correct')
+else:
+    print('Incoorect')
+
+answer = input(" ")
 if answer == "Wookie":
     print('Correct')
 else:
     print('Incoorect')
 
-answer = input("What species is Chewbacca? ")
-if answer == "Wookie":
-    print('Correct')
-else:
-    print('Incoorect')
-
-answer = input("What species is Chewbacca? ")
-if answer == "Wookie":
-    print('Correct')
-else:
-    print('Incoorect')
-
-answer = input("What species is Chewbacca? ")
-if answer == "Wookie":
-    print('Correct')
-else:
-    print('Incoorect')
-
-answer = input("What species is Chewbacca? ")
-if answer == "Wookie":
-    print('Correct')
-else:
-    print('Incoorect')
-
-answer = input("What species is Chewbacca? ")
+answer = input(" ")
 if answer == "Wookie":
     print('Correct')
 else:
